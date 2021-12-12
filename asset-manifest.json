@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RD_Punks/static/css/main.85107aa5.chunk.css",
+    "main.js": "/RD_Punks/static/js/main.c9c2e396.chunk.js",
+    "main.js.map": "/RD_Punks/static/js/main.c9c2e396.chunk.js.map",
+    "runtime-main.js": "/RD_Punks/static/js/runtime-main.628e0dc2.js",
+    "runtime-main.js.map": "/RD_Punks/static/js/runtime-main.628e0dc2.js.map",
+    "static/js/2.2035b12a.chunk.js": "/RD_Punks/static/js/2.2035b12a.chunk.js",
+    "static/js/2.2035b12a.chunk.js.map": "/RD_Punks/static/js/2.2035b12a.chunk.js.map",
+    "static/js/3.e9ede43d.chunk.js": "/RD_Punks/static/js/3.e9ede43d.chunk.js",
+    "static/js/3.e9ede43d.chunk.js.map": "/RD_Punks/static/js/3.e9ede43d.chunk.js.map",
+    "index.html": "/RD_Punks/index.html",
+    "static/css/main.85107aa5.chunk.css.map": "/RD_Punks/static/css/main.85107aa5.chunk.css.map",
+    "static/js/2.2035b12a.chunk.js.LICENSE.txt": "/RD_Punks/static/js/2.2035b12a.chunk.js.LICENSE.txt",
+    "static/media/cryptopunk-logo.8bee49d5.png": "/RD_Punks/static/media/cryptopunk-logo.8bee49d5.png",
+    "static/media/weth.4101f1da.png": "/RD_Punks/static/media/weth.4101f1da.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.628e0dc2.js",
+    "static/js/2.2035b12a.chunk.js",
+    "static/css/main.85107aa5.chunk.css",
+    "static/js/main.c9c2e396.chunk.js"
+  ]
+}
